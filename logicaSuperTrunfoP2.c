@@ -1,6 +1,6 @@
 #include <stdio.h>
 //aluna: Yasmin Neves
-//Bem vindo(a) ao jogo de Super Trunfo parte 2, espero que goste do meu trabalho.
+//Bem vindo(a) ao jogo de Super Trunfo parte 2 ( Desafio de Logica), espero que goste do meu trabalho.
 
 // Estrutura que representa uma carta do Super Trunfo
 typedef struct {
